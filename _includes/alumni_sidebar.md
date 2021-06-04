@@ -1,4 +1,4 @@
-### Fraser Lab Alumni
+### ATOMS Lab Alumni
 {% assign sorted = (site.alumni | sort: "enddate") | reverse %}
 {% for member in sorted %}
 <hr>
