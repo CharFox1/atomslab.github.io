@@ -1,25 +1,27 @@
+- name: HOME
+  link: "/"
+  group: home
 
-
-- name: research
+- name: RESEARCH
   link: "/research"
   group: research
 
-- name: publications
+- name: PUBLICATIONS
   link: "/publications"
   group: publications
 
-- name: members
+- name: MEMBERS
   link: "/members"
   group: member
 
-- name: funding
+- name: FUNDING
   link: "/funding"
   group: funding
 
-- name: join
+- name: JOIN
   link: "/join"
   group: join
 
-- name: contact
+- name: CONTACT
   link: "/contact"
   group: contact
