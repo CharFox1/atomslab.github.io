@@ -1,13 +1,11 @@
 ---
-name: James Fraser, Ph.D.
+name: Professor Tyler R. Josephson
 startdate: YYYY-MM-DD
 enddate: YYYY-MM-DD
-image: /static/img/members/Fraser.jpg
-# altimage: /static/img/members/Fraser_pb.jpg
+image: /static/img/members/tjo.jpg
 position: Principal Investigator
-#current:
 pronouns: he/him/his
-email: jfraser (at) fraserlab.com
+email: tjo (at) umbc.edu
 scholar: j3iaoR8AAAAJ
 website:
 UCSF: james.fraser
