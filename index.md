@@ -2,7 +2,7 @@
 title: ATOMS Lab @ UMBC
 layout: parallax_lead
 group: home
-banner: static/img/banners/Cover.png
+banner: static/img/Cover.png
 ---
 
 
