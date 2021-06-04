@@ -1,19 +1,19 @@
 ---
-title: Fraser Lab 
+title: ATOMS Lab 
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
 {: .display-4}
+<h1></h1>
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/). 
+<h1>Welcome to the ATOMS Lab!</h1>
+<br>
+AI and Theory-Oriented Molecular Science (ATOMS) lab is part of the [Department of Chemical, Biochemical and Environmental Engineering](https://https://cbee.umbc.edu/) at the [University of Maryland Balitmore County](https://www.umbc.edu).
 {: .welcomefont}
 
-![Fraser lab logo](static/img/jf_retreat_logo.png){:style="max-width: 100%; height: auto;"}
-
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+<br>
+Research in the lab is focused on the uses and development of molecular simulation techniques and artificial intelligence tools to gain molecular-scale insights on processes in the environment to enable new solutions for cleaner air and water.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
-{: .welcomefont}
+
