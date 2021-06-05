@@ -1,18 +1,18 @@
 ---
-name: Angelika Arada
-startdate: 2021-04-29
+name: 
+startdate: 
 enddate:
 image:
 altimage:
-position: Sally Casanova Pre-Doctoral Scholar
+position: 
 subsequent:
-pronouns: she/her/hers
-email: angelikamicolearada@gmail.com
+pronouns: 
+email: 
 scholar:
 website:
 UCSF:
 twitter:
-linkedin: angelikaarada
+linkedin: 
 github:
 orcid:
 description:
