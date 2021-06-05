@@ -3,8 +3,7 @@ title: Contact the ATOMS Lab
 layout: default
 group: contact
 ---
-<img class="wide" src="/static/img/campus-eng-2.png">
-
+<img class="img-fluid mx-auto d-block" src="/static/img/campus-eng-2.png" width=640>
 
 # Contact the ATOMS Lab
 
