@@ -17,11 +17,9 @@ Interested in joining the ATOMS lab? <br>
 
 We are always in the market for motivated and talented people. <a href="{{ site.url }}/join">Open positions are listed on our Join page.</a><br>
 We welcome applicants from all backgrounds.<br>
-</p>
-
-<p>
- See our <a href="{{ site.url }}/compact/">lab policy.</a>
 
 
-</p>
+See our <a href="{{ site.url }}/compact/">lab policy.</a>
+
+
 
