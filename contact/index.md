@@ -3,11 +3,13 @@ title: Contact the ATOMS Lab
 layout: default
 group: contact
 ---
+<img class="img-responsive center-block" src="/static/img/campus-eng.jpeg">
+
 
 # Contact the ATOMS Lab
 
 
-<div class="row">
+<<div class="row">
 
 <div class="col-md-4">
 
@@ -15,23 +17,19 @@ group: contact
   <h4>Tyler R. Josephson, Ph.D.</h4>
   Assistant Professor  <br>
   Department of Chemical, Biochemical, and Engineering Engineering,  <br>
-  University of Maryland Baltimore County (QB3)  <br>
+  University of Maryland Baltimore County  <br>
   email: tjo (at) umbc.edu <br>
   tel: ???
 
-
 </div>
 
-</div>
+<!--</div>-->
 
-* * *
-
-# Lab Address
-
-<div class="row">
+<!--<div class="row">-->
 
 <div class="col-md-4">
 
+<h4>Lab Address</h4>
 University of Marylanf Baltimore County <br>
 Engineering Building <br>
 Room ??? <br>
@@ -45,11 +43,13 @@ tel: ???
 * * *
 
 # Directions to the ATOMS Lab
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="450" id="gmap_canvas" src="https://www.google.com/maps/place/UMBC+Engineering+Building/@39.2545859,-76.7139974,15z/data=!4m5!3m4!1s0x0:0x28086b4797b915c2!8m2!3d39.2545859!4d-76.7139974" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:450px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:450px;width:600px;}</style></div>
 
-<div class="google-maps">
-	<iframe src="https://www.google.com/maps/place/UMBC+Engineering+Building/@39.2545859,-76.7139974,15z/data=!4m5!3m4!1s0x0:0x28086b4797b915c2!8m2!3d39.2545859!4d-76.7139974" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+</div>
+
+* * *
 
 ## Land Acknowledgement Statement
 
