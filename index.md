@@ -21,7 +21,7 @@ group: home
       <a href="https://github.com/ATOMSLab"><i class="fa fa-github"></i> ATOMSLab</a>&nbsp;&nbsp;&nbsp;
       <a href="https://twitter.com/ATOMSresearch"><i class="fa fa-twitter"></i> ATOMSresearch</a>&nbsp;&nbsp;&nbsp;
       <a href="mailto:tjo@umbc.edu"><i class="fa fa-envelope-o"></i> tjo@umbc.edu</a>
-      </p>
+</p>
 
 
 <span style="display: block; margin-bottom: 3em"></span>
