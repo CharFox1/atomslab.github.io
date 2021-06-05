@@ -33,5 +33,3 @@ group: home
       Department of  Chemical, Biochemical and Environmental Engineering <br>
       Engineering Building, 1000 Hilltop Circle, Baltimore, MD 21250. 
       <span style="display: block; margin-bottom: 3em"></span>
-
-
