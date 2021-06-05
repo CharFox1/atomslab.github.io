@@ -1,7 +1,5 @@
 ---
-title: ATOMS Lab @ UMBC
-layout: home
-group: home
+layout: welcome
 ---
 
 <div class='container'>
