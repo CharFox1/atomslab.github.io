@@ -10,13 +10,12 @@ We are the **AI and Theory-Oriented Molecular Science (ATOMS)**, led by [Profess
 
 Research in our lab is focused on the uses and development of molecular simulation techniques and artificial intelligence tools to gain molecular-scale insights on processes in the environment to enable new solutions for cleaner air and water. {: .welcomefont}
 
-Interested in joining the ATOMS lab? <br>
+Interested in joining the ATOMS lab? <br> {: .welcomefont}
 We are always in the market for motivated and talented people. <a href="{{ site.url }}/join">Open positions are listed on our Join page.</a><br>
-We welcome applicants from all backgrounds.<br>
-</p>
+We welcome applicants from all backgrounds.<br> {: .welcomefont}</p>
 
 <p>
- See our <a href="{{ site.url }}/compact/">lab policy</a>
+ See our <a href="{{ site.url }}/compact/">lab policy.</a> {: .welcomefont}
 
 </p>
 
