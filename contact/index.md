@@ -9,7 +9,7 @@ group: contact
 # Contact the ATOMS Lab
 
 
-<<div class="row">
+<div class="row">
 
 <div class="col-md-4">
 
