@@ -10,9 +10,9 @@ group: home
 
 
 
-led by [Professor Tyler R. Josephson](https://cbee.umbc.edu/josephson/).
- [Department of Chemical, Biochemical and Environmental Engineering](https://https://cbee.umbc.edu/) 
-at the [University of Maryland Baltimore County](https://www.umbc.edu).
+led by [Professor Tyler R. Josephson](https://cbee.umbc.edu/josephson/)<br>
+located? [Department of Chemical, Biochemical and Environmental Engineering](https://https://cbee.umbc.edu/) 
+at the [University of Maryland Baltimore County](https://www.umbc.edu)
 
 
 Some text about lab researh?
