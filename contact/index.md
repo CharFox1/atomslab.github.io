@@ -3,7 +3,7 @@ title: Contact the ATOMS Lab
 layout: default
 group: contact
 ---
-<img class="img-responsive center-block" src="/static/img/campus-eng.jpeg">
+<img class="wide" src="/static/img/campus-eng-2.png">
 
 
 # Contact the ATOMS Lab
@@ -22,7 +22,7 @@ group: contact
   tel: ???
 
 </div>
-
+  
 <!--</div>-->
 
 <!--<div class="row">-->
@@ -43,7 +43,7 @@ tel: ???
 * * *
 
 # Directions to the ATOMS Lab
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="450" id="gmap_canvas" src="https://www.google.com/maps/place/UMBC+Engineering+Building/@39.2545859,-76.7139974,15z/data=!4m5!3m4!1s0x0:0x28086b4797b915c2!8m2!3d39.2545859!4d-76.7139974" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:450px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:450px;width:600px;}</style></div>
+Google map embed
 
 </div>
 
