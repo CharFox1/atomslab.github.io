@@ -10,7 +10,7 @@ group: home
       <img class='img-responsive center-block' src="/images/people/home-page-logo.png" width="100%" height="100%" />
 
       <p>
-      <i>Some. <br> Test.<br>
+      <i>Some. <br> Text.<br>
       about you, lab <br>
       and research.</i>
 
@@ -20,6 +20,7 @@ group: home
       <a href="https://twitter.com/ATOMSresearch"><i class="fa fa-twitter"></i> ATOMSResearch</a>&nbsp;&nbsp;&nbsp;
       <a href="mailto:tjo@umbc.edu"><i class="fa fa-envelope-o"></i> tjo@umbc.edu</a>
       </p>
+</div>
 
 
 
