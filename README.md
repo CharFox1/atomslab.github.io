@@ -1,4 +1,4 @@
-# ATOMS-lab.github.io
+# atoms-lab.github.io
 ====================
 
 Technologies this website uses:  
