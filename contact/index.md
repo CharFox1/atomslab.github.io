@@ -2,11 +2,6 @@
 title: Contact the ATOMS Lab
 layout: default
 group: contact
-header:
-  overlay_color: "#000"
-  overlay_filter: "0"
-  overlay_image: /assets/images/campus-eng-2.png
-classes: wide
 ---
 
 <h3>Contact</h3>
@@ -29,16 +24,13 @@ tel: +1....<br>
 </p>
 
 </div>
-  
-<!--</div>-->
 
-<!--<div class="row">-->
 
-# Directions to the ATOMS Lab
+## Directions to the ATOMS Lab
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=engineering%20building%20umbc&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://soap2day-to.com">soap2day</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed map google</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
 
-* * *
+
 
 ## Land Acknowledgement Statement
 
