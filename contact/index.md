@@ -7,10 +7,10 @@ group: contact
 <h3>Contact</h3>
 <p>
 Tyler R. Josephson, PhD <br>
-<b>Assistant Professor<b>, Dept of Chemical, Biochemical and Environmental Engineering <br>
-<b>Affiliate Faculty Member<b>, Dept of Computer Science & Electrical Engineering <br>
+Assistant Professor, Dept of Chemical, Biochemical and Environmental Engineering <br>
+Affiliate Faculty Member, Dept of Computer Science & Electrical Engineering <br>
 University of Maryland Baltimore County <br/>
-Office ### L<br>
+Office ### Lab ### <br>
 1000 Hilltop Circle <br>
 Baltimore, MD 21250 <br>
 email: tjo (at) umbc.edu  <br>
