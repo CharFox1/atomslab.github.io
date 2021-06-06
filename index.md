@@ -10,11 +10,11 @@ group: home
 <br />
 
 <i>SOME TEXT ABOUT LAB AND RESEARCH?</i>
+<br />  
 
-<br />   
 *Interested in joining the ATOMS lab?*
-
 <br /> 
+
 <a href="{{ site.url }}/join">Open positions are listed on our Join page.</a> See our <a href="{{ site.url }}/compact/">lab policy.</a>
 
 
