@@ -2,23 +2,31 @@
 title: Contact the ATOMS Lab
 layout: default
 group: contact
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/campus-eng-2.png
+classes: wide
 ---
-<img class="img-fluid mx-auto d-block" src="/static/img/campus-eng-2.png" width=640>
 
-# Contact the ATOMS Lab
-
-
-<div class="row">
-
-<div class="col-md-4">
-
-  
-  <h4>Tyler R. Josephson, Ph.D.</h4>
-  Assistant Professor  <br>
-  Department of Chemical, Biochemical, and Engineering Engineering,  <br>
-  University of Maryland Baltimore County  <br>
-  email: tjo (at) umbc.edu <br>
-  tel: ???
+<h3>Contact</h3>
+<p>
+Tyler R. Josephson, PhD <br>
+<b>Assistant Professor<b>, Dept of Chemical, Biochemical and Environmental Engineering <br>
+<b>Affiliate Faculty Member<b>, Dept of Computer Science & Electrical Engineering <br>
+University of Maryland Baltimore County <br/>
+Office ### L<br>
+1000 Hilltop Circle <br>
+Baltimore, MD 21250 <br>
+email: tjo (at) umbc.edu  <br>
+tel: +1....<br>
+<br>
+<a href="https://tylerjosephson.com/"><img class="inline-block mem-icon" src="/static/img/Globe.svg"></a>
+<a href="http://scholar.google.com/citations?user=0LAAG-4AAAAJ"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
+<a href="http://twitter.com/trjosephson"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
+<a href="http://www.linkedin.com/in/trjosephson"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
+<a href="http://github.com/TylerJosephson"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
+</p>
 
 </div>
   
@@ -26,27 +34,9 @@ group: contact
 
 <!--<div class="row">-->
 
-<div class="col-md-4">
-
-<h4>Lab Address</h4>
-University of Marylanf Baltimore County <br>
-Engineering Building <br>
-Room ??? <br>
-
-tel: ???
-
-</div>
-
-</div>
-
-* * *
-
 # Directions to the ATOMS Lab
-Google map embed
 
-</div>
-
-</div>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=engineering%20building%20umbc&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://soap2day-to.com">soap2day</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed map google</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
 
 * * *
 
