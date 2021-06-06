@@ -4,9 +4,8 @@ layout: default
 group: contact
 ---
 
-## Contact
-<p>
-Tyler R. Josephson, PhD <br>
+
+## Tyler R. Josephson, PhD <br>
 Assistant Professor, Dept of Chemical, Biochemical and Environmental Engineering <br>
 Affiliate Faculty Member, Dept of Computer Science & Electrical Engineering <br>
 University of Maryland Baltimore County <br>
@@ -16,16 +15,16 @@ Baltimore, MD 21250 <br>
 email: tjo (at) umbc.edu  <br>
 tel: +1....<br>
 <br>
-<a href="https://tylerjosephson.com/"><img class="inline-block mem-icon" src="/static/img/Globe.svg"></a>
-<a href="http://scholar.google.com/citations?user=0LAAG-4AAAAJ"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
-<a href="http://twitter.com/trjosephson"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
-<a href="http://www.linkedin.com/in/trjosephson"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
-<a href="http://github.com/TylerJosephson"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
-</p>
+<!a href="https://tylerjosephson.com/"><img class="inline-block mem-icon" src="/static/img/Globe.svg"></a>
+<!a href="http://scholar.google.com/citations?user=0LAAG-4AAAAJ"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
+<!a href="http://twitter.com/trjosephson"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
+<!a href="http://www.linkedin.com/in/trjosephson"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
+<!a href="http://github.com/TylerJosephson"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
+
 
 </div>
 
-## Directions
+## Directions to the lab
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=engineering%20building%20umbc&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://soap2day-to.com">soap2day</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed map google</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
