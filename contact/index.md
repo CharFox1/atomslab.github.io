@@ -15,12 +15,6 @@ Baltimore, MD 21250 <br>
 email: tjo (at) umbc.edu  <br>
 tel: +1....<br>
 <br>
-<!a href="https://tylerjosephson.com/"><img class="inline-block mem-icon" src="/static/img/Globe.svg"></a>
-<!a href="http://scholar.google.com/citations?user=0LAAG-4AAAAJ"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
-<!a href="http://twitter.com/trjosephson"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
-<!a href="http://www.linkedin.com/in/trjosephson"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
-<!a href="http://github.com/TylerJosephson"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
-
 
 </div>
 
