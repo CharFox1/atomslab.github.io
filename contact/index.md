@@ -14,7 +14,6 @@ Office ### Lab ### <br>
 Baltimore, MD 21250 <br>
 email: tjo (at) umbc.edu  <br>
 tel: +1....<br>
-<br>
 
 </div>
 
@@ -28,4 +27,4 @@ tel: +1....<br>
 
 The ATOMS lab recognizes that the University of Maryland Baltimore County (UMBC) was established upon the tribal lands of the Piscataway Conoy and Susquehannock peoples. Over time, citizens of many more Indigenous nations have come to reside in this region. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America and humbly offer our respects to all past, present, and future Indigenous people connected to this place.
 
-</div>
+
