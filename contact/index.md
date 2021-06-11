@@ -4,19 +4,15 @@ layout: default
 group: contact
 ---
 
-<div>
 ## Tyler R. Josephson, PhD <br>
 Assistant Professor, Dept of Chemical, Biochemical and Environmental Engineering <br>
 Affiliate Faculty Member, Dept of Computer Science & Electrical Engineering <br>
 University of Maryland Baltimore County <br>
-Office 323 ENG <br>
-Lab 334 ENG <br>
+Office: 323 ENG <br>
+Lab: 334 ENG <br>
 1000 Hilltop Circle <br>
 Baltimore, MD 21250 <br>
-email: tjo (at) umbc.edu  <br>
-tel: +1....<br>
-
-</div>
+Email: tjo (at) umbc.edu  <br>
 
 ### Directions to the lab
 
