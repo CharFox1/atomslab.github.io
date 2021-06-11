@@ -9,7 +9,8 @@ group: contact
 Assistant Professor, Dept of Chemical, Biochemical and Environmental Engineering <br>
 Affiliate Faculty Member, Dept of Computer Science & Electrical Engineering <br>
 University of Maryland Baltimore County <br>
-Office ### Lab ### <br>
+Office 323 ENG <br>
+Lab 334 ENG <br>
 1000 Hilltop Circle <br>
 Baltimore, MD 21250 <br>
 email: tjo (at) umbc.edu  <br>
@@ -23,8 +24,8 @@ tel: +1....<br>
 
 </div>
 
-## Land Acknowledgement Statement
-
-The ATOMS lab recognizes that the University of Maryland Baltimore County (UMBC) was established upon the tribal lands of the Piscataway Conoy and Susquehannock peoples. Over time, citizens of many more Indigenous nations have come to reside in this region. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America and humbly offer our respects to all past, present, and future Indigenous people connected to this place.
-
-
+### Land Acknowledgement Statement
+The ATOMS lab recognizes that the University of Maryland Baltimore County (UMBC) was established upon the tribal lands of the Piscataway Conoy and Susquehannock
+peoples. Over time, citizens of many more Indigenous nations have come to reside in this region. As settlers on this land, we want to recognize the historic, and
+ongoing, discrimination and violence inflicted upon Indigenous people in North America and humbly offer our respects to all past, present, and future Indigenous
+people connected to this place.
