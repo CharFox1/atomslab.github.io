@@ -8,10 +8,12 @@ pronouns: he/him/his
 email: tjo (at) umbc.edu
 scholar: 0LAAG-4AAAAJ
 website: https://tylerjosephson.com
-UCSF: james.fraser
 twitter: trjosephson
 linkedin: trjosephson
 github: TylerJosephson
-orcid: 0000-0002-5080-2859
-description: Dr. Josephson is passionate about reaction engineering, sustainability, and computational modeling methods, and he uses multi-scale modeling techniques to study catalysis, spectroscopy, solvation, adsorption, phase equilibria, and transport. His primary expertise is in cluster and periodic density functional theory (DFT), Monte Carlo simulations, and molecular dynamics. During his downtime, he loves learning new things, thinking about deep topics (like science and philosophy), and playing the piano (his favorite pianist being Franz Liszt).
+orcid: 0000-0002-0100-0227
+description: Dr. Josephson is passionate about reaction engineering, sustainability, and computational modeling methods, and he uses multi-scale modeling techniques
+to study catalysis, spectroscopy, solvation, adsorption, phase equilibria, and transport. His primary expertise is in cluster and periodic density functional theory
+(DFT), Monte Carlo simulations, and molecular dynamics. During his downtime, he loves learning new things, thinking about deep topics (like science and philosophy),
+and playing the piano (his favorite pianist being Franz Liszt).
 ---
