@@ -83,18 +83,18 @@ a {
  padding: 0 25px;
 }
 
-.contact-page .contact-block h4 {
+.contact-block-column {
+  text-align: center;
+}
+
+.contact-block-column h4 {
   margin: 20px 0;
   text-transform: uppercase;
   font-size: 20px;
   letter-spacing: 1px;
   font-weight: 500;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ccc;
   display: inline-block;
-}
-
-.contact-block-column {
-  text-align: center;
 }
 
 /*
