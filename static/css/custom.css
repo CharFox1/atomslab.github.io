@@ -49,11 +49,20 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
-.social{
-display: block;
-width: 20%;
-margin: auto;
+.social {
+  display: block;
+  width: 20%;
+  margin: auto;
 }
+
+#footer-fixed-bottom ul {
+  list-style-type: none;
+}
+
+#footer-fixed-bottom ul li {
+  float: left;
+}
+
 /*
 body {
   padding-top: 60px;
