@@ -6,7 +6,6 @@ group: research
 
 <div class="row">
 
-# Our research <br>
+<h1> Our research </h1>
   
-  
-  We will update soon! Meanwhile check out [this]. (https://cbee.umbc.edu/josephson/)
+  We will update soon!
