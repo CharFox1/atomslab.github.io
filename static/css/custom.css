@@ -47,9 +47,12 @@ a {
 }
 
 .navb-icon {
-  height: 8em;
+  height: 6em;
 }
 
+.navbar {
+  margin-bottom: 10px;
+}
 
 .welcomefont {
   font-size: 1.5em;
