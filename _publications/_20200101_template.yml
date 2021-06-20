@@ -26,7 +26,7 @@
 #   pmid: '########'
 #   pmcid: 'PMC#######'
 #   biorxiv: 'YYYY.MM.DD.######'
-#   pdf: '/static/pdf/publications/surname_YYYY.pdf'
+#   pdf: '/static/pdf/pub/surname_YYYY.pdf'
 #   pdbs:
 #     - PDB_ID
 #   paired_maps_and_models:
@@ -55,7 +55,7 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
-###publications
+###pub
 - authors: "**Last Name FN**, **Fraser JS**.
 Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure
 determination from small macromolecular crystals. *IUCrJ*. 2020."
@@ -64,7 +64,7 @@ determination from small macromolecular crystals. *IUCrJ*. 2020."
   pmid: '32148858'
   pmcid: 'PMC7055375'
   biorxiv: '767061'
-  pdf: '/static/pdf/publications/wolff_2020.pdf'
+  pdf: '/static/pdf/pub/wolff_2020.pdf'
   pdbs:
     - 6U5C
     - 6U5D
