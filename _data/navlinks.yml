@@ -7,8 +7,8 @@
   group: research
 
 - name: PUBLICATIONS
-  link: "/pub"
-  group: pub
+  link: "/publications"
+  group: publications
 
 - name: MEMBERS
   link: "/members"
